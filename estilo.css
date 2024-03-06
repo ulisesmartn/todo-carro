@@ -1,0 +1,37 @@
+/*el index*/
+body{
+    	  background: lightgray;	
+    	  font-family: Eras medium 12;
+          }
+
+#conteiner{
+	width: 1500px
+	
+	
+}
+
+header{
+    font-family: Eras medium 13;
+    background: red;
+	height: 50px;
+	width: 100%;
+	margin: 0px;
+	text-align: center;
+	line-height: 50px;
+	color: white;
+}
+
+.enmedio{
+   text-align: center;
+}
+
+#indice{
+	font-family: Eras medium 13;
+    background: red;
+	height: 50px;
+	width: 100%;
+	margin: 0px;
+	text-align: center;
+	line-height: 50px;
+	color: white;
+}
